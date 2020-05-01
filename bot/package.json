@@ -1,0 +1,14 @@
+{
+  "name": "lappet_bot",
+  "version": "1.0",
+  "description": "making",
+  "main": "index.js",
+  "author": "salt&sweet",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "firebase": "^7.14.2",
+    "node-telegram-bot-api": "^0.40.0",
+    "open-graph-scraper": "^3.6.2"
+  }
+}
