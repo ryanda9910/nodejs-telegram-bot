@@ -15,7 +15,7 @@ const intro = bot.once("message", (msg) => {
 });
 
 const app = firebase.initializeApp({
-  apiKey: "AIzaSyCkSp7m8d1BLtP29dtrvjQ8RwUymPSYYH0",
+  apiKey: "AIzaSyCkSp7m8d1BLtP29dtrvjQ8334490",
   authDomain: "annoyingbot-b45df.firebaseapp.com",
   databaseURL: "https://annoyingbot-b45df.firebaseio.com",
   projectId: "annoyingbot-b45df",
